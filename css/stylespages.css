@@ -1,0 +1,90 @@
+body {
+    background-color: rgb(29, 6, 26);
+    color: white;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+/* Centered container */
+.container {
+    text-align: center;
+    width: 100%;
+    max-width: 500px;
+}
+
+/* Main box for exercises */
+.exercise-box {
+    background: rgba(255, 255, 255, 0.1);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+/* Titles */
+h1 {
+    margin-bottom: 15px;
+}
+
+/* Inputs */
+input {
+    width: 80%;
+    padding: 10px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+}
+
+/* Buttons */
+button {
+    background-color: #ff7300;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px;
+}
+
+button:hover {
+    background-color: #ff7300;
+}
+
+/* Menu button */
+.menu-btn {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    background-color: #ff7300;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.menu-btn:hover {
+    background-color: #ff7300;
+}
+
+/* Navigation buttons */
+.nav-buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.nav-btn {
+    text-decoration: none;
+    background-color: #ff7300;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+.nav-btn:hover {
+    background-color: #ff7300;
+}
