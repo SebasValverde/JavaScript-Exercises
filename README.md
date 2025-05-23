@@ -1,4 +1,4 @@
-# 💡 JavaScript Exercises Portfolio
+# JavaScript Exercises
 
 Welcome to my JavaScript Exercises Portfolio! This project was created with the goal of **practicing and demonstrating my front-end development skills**, especially in **JavaScript**, through a series of interactive and visually cohesive exercises grouped by difficulty.
 
@@ -19,7 +19,7 @@ This video includes:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 Each exercise is contained within its own HTML file and follows a consistent design structure. The code is organized into:
 
@@ -30,66 +30,66 @@ Each exercise is contained within its own HTML file and follows a consistent des
 
 ---
 
-## 🧪 Exercises Overview
+##  Exercises Overview
 
-### 🟢 Easy Exercises
+###  Easy Exercises
 
-#### 🎲 Generate a Random Number
+####  Generate a Random Number
 Generates a random number between 1 and 100 when a button is clicked. Demonstrates basic randomization and output handling.
 
-#### 🌡️ Convert Celsius to Fahrenheit
+####  Convert Celsius to Fahrenheit
 Converts a temperature entered in Celsius to Fahrenheit using a standard conversion formula.
 
-#### ➕ Click Counter
+####  Click Counter
 Each time a button is clicked, a counter increases and updates on the screen. Great for practicing state management in JS.
 
-#### 🔢 Check if a Number is Even or Odd
+####  Check if a Number is Even or Odd
 User enters a number, and the app tells them whether it’s even or odd using the modulo operator.
 
-#### 🕒 Display Current Date and Time
+####  Display Current Date and Time
 Shows the current date and updates the time in real-time using `setInterval` and `Date` object.
 
 ---
 
-### 🟡 Intermediate Exercises
+###  Intermediate Exercises
 
-#### 🔄 Reverse a String
+####  Reverse a String
 Takes user input and displays it reversed. This exercise covers string manipulation and loop logic.
 
-#### ➕ Add Two Numbers Entered by the User
+####  Add Two Numbers Entered by the User
 Two number fields are added together on button click, showcasing type conversion and user interaction.
 
-#### 🔁 Check if a Word is a Palindrome
+####  Check if a Word is a Palindrome
 Determines if a word reads the same forwards and backwards, ignoring case. Useful for logic practice.
 
-#### ✍️ Count Characters in an Input Field
+####  Count Characters in an Input Field
 Real-time character counter that updates as the user types. Demonstrates use of `input` events and dynamic updates.
 
-#### 🎨 Change Background Color Randomly
+####  Change Background Color Randomly
 Changes the background color of the page to a random hex value each time a button is clicked.
 
 ---
 
-### 🔴 Hard Exercises
+###  Hard Exercises
 
-#### ⏳ Countdown Timer
+####  Countdown Timer
 Counts down from a number entered by the user to 0 with one-second intervals using `setInterval`.
 
-#### 🔐 Random Password Generator
+####  Random Password Generator
 Generates a strong password based on user preferences (length, symbols, numbers). Shows string generation and checkbox handling.
 
-#### ✅ To-Do List
+####  To-Do List
 Allows users to add and delete tasks interactively. Covers `createElement`, `appendChild`, and `remove()` methods.
 
-#### 🔍 Filter Items in a List
+####  Filter Items in a List
 As the user types in an input field, a list is filtered live to match entries. Useful for real-time search logic.
 
-#### 🎲 Dice Roll Simulation
+####  Dice Roll Simulation
 Simulates rolling two dice by generating two numbers from 1 to 6. Optionally displays images of dice faces.
 
 ---
 
-## 🚀 Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3
@@ -99,7 +99,7 @@ Simulates rolling two dice by generating two numbers from 1 to 6. Optionally dis
 
 ---
 
-## 🧠 What I Learned
+##  What I Learned
 
 - DOM manipulation and dynamic content rendering  
 - Event handling (`click`, `input`, `DOMContentLoaded`, etc.)  
@@ -119,7 +119,7 @@ If you're interested in my work or would like to collaborate:
 
 ---
 
-## 📂 How to Run
+##  How to Run
 
 1. Clone the repository:
    ```bash
