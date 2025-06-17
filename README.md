@@ -102,7 +102,7 @@ If you're interested in my work or would like to collaborate:
 
 - GitHub: [SebasValverde](https://github.com/SebasValverde)
 - Email: [sebasvala28@gmail.com]
-- LinkedIn: [[your LinkedIn profile](https://www.linkedin.com/in/sebastian-valverdearias/)]
+- LinkedIn: [[Sebastian-Valverdearias](https://www.linkedin.com/in/sebastian-valverdearias/)]
 
 ---
 
