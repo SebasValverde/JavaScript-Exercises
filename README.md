@@ -6,19 +6,6 @@ These exercises cover essential programming concepts such as DOM manipulation, e
 
 ---
 
-## 🎥 Project Demo
-
-Here you can see a video showcasing how the project works:
-
-> 📌 **[Insert link to video here — YouTube, Loom, Drive, etc.]**
-
-This video includes:
-- A walkthrough of the index page
-- A demonstration of each exercise in action
-- Explanations of how the code behaves dynamically
-
----
-
 ##  Project Structure
 
 Each exercise is contained within its own HTML file and follows a consistent design structure. The code is organized into:
